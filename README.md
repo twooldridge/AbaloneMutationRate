@@ -19,4 +19,7 @@ I've uploaded the code in a series of jupyter notebooks that draw on python, R, 
      e) plotting the result on a phylogeny of mutation rates (**Fig. 1**)<br>
      f) adding life history context<br>
 4) `Phasing.ipynb` - Phasing variants using `whatshap` and attempting to determine which parent they came from with `POOHA`
-5) 
+5) `Diversity.ipynb` - In here are is the code related to **Fig. 4**:<br>
+     a) Variant calling for wild caught *H. sorenseni* and analysis of polymorphism<br>
+     b) MSMC2 analyses<br>
+6) `Phylogenomics.ipynb` - This is all the code related to **Fig. 3**. Downloading assemblies, aligning and building trees from orthologs, dating with BPP...
