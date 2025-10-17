@@ -23,3 +23,7 @@ I've uploaded the code in a series of jupyter notebooks that draw on python, R, 
      a) Variant calling for wild caught *H. sorenseni* and analysis of polymorphism<br>
      b) MSMC2 analyses<br>
 6) `Phylogenomics.ipynb` - This is all the code related to **Fig. 3**. Downloading assemblies, aligning and building trees from orthologs, dating with BPP...
+
+
+Photo of this gorgeous beast by Oriana Poindexter
+![https://academic.oup.com/view-large/figure/502372672/msae266f1.jpg](https://www.aquariumofpacific.org/images/made_new/images-conservation-1_Abalone_face_Oriana_900_q85.jpg)
